@@ -1,0 +1,13 @@
+{
+  "title": "gmx reminder skipper",
+  "name": "gmx-skipper",
+  "version": "0.0.1",
+  "description": "the addon skips the logout reminder",
+  "main": "index.js",
+  "author": "esnowd",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv2"
+}
